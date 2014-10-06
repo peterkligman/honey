@@ -57,10 +57,6 @@
 
     </script>
     <body onselectstart="return false" style="margin: 0px">
-   <div>
-       Хеллоу ворлд!!!
-   </div>
-
 
    <div id="rotator">
        <ul>
