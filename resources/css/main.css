@@ -1,0 +1,67 @@
+div.FirstLine {
+    background-image: url("../images/first_line.png");
+    height: 6px;
+    width: 100%;
+    position: relative;
+    z-index: 10;
+}
+
+div.Logo {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 93px;
+    width: 100%;
+    position: relative;
+    top: 80px;
+    left: 3px;
+}
+
+div.TopCenter {
+    background-image: url("../images/top_center.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 235px;
+    width: 211px;
+    position: relative;
+    display: inline-block;
+    top: -65px;
+}
+
+div.Top {
+    background-image: url("../images/top.png");
+    height: 112px;
+    width: 100%;
+    align-content: center;
+    position: relative;
+    top: -6px;
+}
+
+div.Main {
+
+}
+
+div.Bottom {
+
+}
+
+div.MainLinkSpan {
+    padding-top: 50px;
+    padding-left: 150px;
+    display: inline-block;
+    top: -65px;
+    position: relative;
+}
+
+span.LinkSpan {
+    position: relative;
+    width: 30px;
+    display: inline-block;
+}
+
+a.HyperLink {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
